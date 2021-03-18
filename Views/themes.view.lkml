@@ -1,5 +1,6 @@
 view: themes {
-  sql_table_name: cmslite.themes ;;
+  # sql_table_name: cmslite.themes ;;
+  sql_table_name: demo_db.events ;; #Won
   drill_fields: [subtheme_id]
 
 
